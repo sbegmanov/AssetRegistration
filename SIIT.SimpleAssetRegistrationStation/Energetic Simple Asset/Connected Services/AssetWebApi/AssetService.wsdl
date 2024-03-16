@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="AssetService" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://nhoppasit-pc2/asset/webapi.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://nhoppasit-pc2/asset/webapi.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://nhoppasit-pc2/asset/webapi.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/Asset" />
+      <xsd:import schemaLocation="http://nhoppasit-pc2/asset/webapi.svc?xsd=xsd3" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+      <xsd:import schemaLocation="http://nhoppasit-pc2/asset/webapi.svc?xsd=xsd4" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IAssetService_GetData_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetData" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_GetData_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_GetDataUsingDataContract_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetDataUsingDataContract" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_GetDataUsingDataContract_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDataUsingDataContractResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_MorningCheck_InputMessage">
+    <wsdl:part name="parameters" element="tns:MorningCheck" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_MorningCheck_OutputMessage">
+    <wsdl:part name="parameters" element="tns:MorningCheckResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_TestList_InputMessage">
+    <wsdl:part name="parameters" element="tns:TestList" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_TestList_OutputMessage">
+    <wsdl:part name="parameters" element="tns:TestListResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_SearchByTid_InputMessage">
+    <wsdl:part name="parameters" element="tns:SearchByTid" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_SearchByTid_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SearchByTidResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_SearchByFid_InputMessage">
+    <wsdl:part name="parameters" element="tns:SearchByFid" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_SearchByFid_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SearchByFidResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_Save_InputMessage">
+    <wsdl:part name="parameters" element="tns:Save" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_Save_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SaveResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_SearchByRoomCode_InputMessage">
+    <wsdl:part name="parameters" element="tns:SearchByRoomCode" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_SearchByRoomCode_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SearchByRoomCodeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_SearchByRoomTID_InputMessage">
+    <wsdl:part name="parameters" element="tns:SearchByRoomTID" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_SearchByRoomTID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:SearchByRoomTIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_RoomSave_InputMessage">
+    <wsdl:part name="parameters" element="tns:RoomSave" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_RoomSave_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RoomSaveResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_RoomAssetSearchByAssetTID_InputMessage">
+    <wsdl:part name="parameters" element="tns:RoomAssetSearchByAssetTID" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_RoomAssetSearchByAssetTID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RoomAssetSearchByAssetTIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_RoomAssetSearchByAssetFID_InputMessage">
+    <wsdl:part name="parameters" element="tns:RoomAssetSearchByAssetFID" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_RoomAssetSearchByAssetFID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RoomAssetSearchByAssetFIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_RoomAsset_AssetSave_InputMessage">
+    <wsdl:part name="parameters" element="tns:RoomAsset_AssetSave" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_RoomAsset_AssetSave_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RoomAsset_AssetSaveResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_RoomAssetSearchByRoomTID_InputMessage">
+    <wsdl:part name="parameters" element="tns:RoomAssetSearchByRoomTID" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_RoomAssetSearchByRoomTID_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RoomAssetSearchByRoomTIDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_RoomAssetSearchByRoomCode_InputMessage">
+    <wsdl:part name="parameters" element="tns:RoomAssetSearchByRoomCode" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_RoomAssetSearchByRoomCode_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RoomAssetSearchByRoomCodeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_RoomAsset_RoomSave_InputMessage">
+    <wsdl:part name="parameters" element="tns:RoomAsset_RoomSave" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_RoomAsset_RoomSave_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RoomAsset_RoomSaveResponse" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_RoomAssetSelectAll_InputMessage">
+    <wsdl:part name="parameters" element="tns:RoomAssetSelectAll" />
+  </wsdl:message>
+  <wsdl:message name="IAssetService_RoomAssetSelectAll_OutputMessage">
+    <wsdl:part name="parameters" element="tns:RoomAssetSelectAllResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IAssetService">
+    <wsdl:operation name="GetData">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAssetService/GetData" message="tns:IAssetService_GetData_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAssetService/GetDataResponse" message="tns:IAssetService_GetData_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetDataUsingDataContract">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAssetService/GetDataUsingDataContract" message="tns:IAssetService_GetDataUsingDataContract_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAssetService/GetDataUsingDataContractResponse" message="tns:IAssetService_GetDataUsingDataContract_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="MorningCheck">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAssetService/MorningCheck" message="tns:IAssetService_MorningCheck_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAssetService/MorningCheckResponse" message="tns:IAssetService_MorningCheck_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="TestList">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAssetService/TestList" message="tns:IAssetService_TestList_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAssetService/TestListResponse" message="tns:IAssetService_TestList_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SearchByTid">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAssetService/SearchByTid" message="tns:IAssetService_SearchByTid_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAssetService/SearchByTidResponse" message="tns:IAssetService_SearchByTid_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SearchByFid">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAssetService/SearchByFid" message="tns:IAssetService_SearchByFid_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAssetService/SearchByFidResponse" message="tns:IAssetService_SearchByFid_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Save">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAssetService/Save" message="tns:IAssetService_Save_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAssetService/SaveResponse" message="tns:IAssetService_Save_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SearchByRoomCode">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAssetService/SearchByRoomCode" message="tns:IAssetService_SearchByRoomCode_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAssetService/SearchByRoomCodeResponse" message="tns:IAssetService_SearchByRoomCode_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="SearchByRoomTID">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAssetService/SearchByRoomTID" message="tns:IAssetService_SearchByRoomTID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAssetService/SearchByRoomTIDResponse" message="tns:IAssetService_SearchByRoomTID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RoomSave">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAssetService/RoomSave" message="tns:IAssetService_RoomSave_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAssetService/RoomSaveResponse" message="tns:IAssetService_RoomSave_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RoomAssetSearchByAssetTID">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAssetService/RoomAssetSearchByAssetTID" message="tns:IAssetService_RoomAssetSearchByAssetTID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAssetService/RoomAssetSearchByAssetTIDResponse" message="tns:IAssetService_RoomAssetSearchByAssetTID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RoomAssetSearchByAssetFID">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAssetService/RoomAssetSearchByAssetFID" message="tns:IAssetService_RoomAssetSearchByAssetFID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAssetService/RoomAssetSearchByAssetFIDResponse" message="tns:IAssetService_RoomAssetSearchByAssetFID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RoomAsset_AssetSave">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAssetService/RoomAsset_AssetSave" message="tns:IAssetService_RoomAsset_AssetSave_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAssetService/RoomAsset_AssetSaveResponse" message="tns:IAssetService_RoomAsset_AssetSave_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RoomAssetSearchByRoomTID">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAssetService/RoomAssetSearchByRoomTID" message="tns:IAssetService_RoomAssetSearchByRoomTID_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAssetService/RoomAssetSearchByRoomTIDResponse" message="tns:IAssetService_RoomAssetSearchByRoomTID_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RoomAssetSearchByRoomCode">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAssetService/RoomAssetSearchByRoomCode" message="tns:IAssetService_RoomAssetSearchByRoomCode_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAssetService/RoomAssetSearchByRoomCodeResponse" message="tns:IAssetService_RoomAssetSearchByRoomCode_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RoomAsset_RoomSave">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAssetService/RoomAsset_RoomSave" message="tns:IAssetService_RoomAsset_RoomSave_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAssetService/RoomAsset_RoomSaveResponse" message="tns:IAssetService_RoomAsset_RoomSave_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="RoomAssetSelectAll">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAssetService/RoomAssetSelectAll" message="tns:IAssetService_RoomAssetSelectAll_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAssetService/RoomAssetSelectAllResponse" message="tns:IAssetService_RoomAssetSelectAll_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpEndPoint" type="tns:IAssetService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetData">
+      <soap:operation soapAction="http://tempuri.org/IAssetService/GetData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetDataUsingDataContract">
+      <soap:operation soapAction="http://tempuri.org/IAssetService/GetDataUsingDataContract" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="MorningCheck">
+      <soap:operation soapAction="http://tempuri.org/IAssetService/MorningCheck" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="TestList">
+      <soap:operation soapAction="http://tempuri.org/IAssetService/TestList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SearchByTid">
+      <soap:operation soapAction="http://tempuri.org/IAssetService/SearchByTid" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SearchByFid">
+      <soap:operation soapAction="http://tempuri.org/IAssetService/SearchByFid" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Save">
+      <soap:operation soapAction="http://tempuri.org/IAssetService/Save" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SearchByRoomCode">
+      <soap:operation soapAction="http://tempuri.org/IAssetService/SearchByRoomCode" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SearchByRoomTID">
+      <soap:operation soapAction="http://tempuri.org/IAssetService/SearchByRoomTID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RoomSave">
+      <soap:operation soapAction="http://tempuri.org/IAssetService/RoomSave" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RoomAssetSearchByAssetTID">
+      <soap:operation soapAction="http://tempuri.org/IAssetService/RoomAssetSearchByAssetTID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RoomAssetSearchByAssetFID">
+      <soap:operation soapAction="http://tempuri.org/IAssetService/RoomAssetSearchByAssetFID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RoomAsset_AssetSave">
+      <soap:operation soapAction="http://tempuri.org/IAssetService/RoomAsset_AssetSave" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RoomAssetSearchByRoomTID">
+      <soap:operation soapAction="http://tempuri.org/IAssetService/RoomAssetSearchByRoomTID" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RoomAssetSearchByRoomCode">
+      <soap:operation soapAction="http://tempuri.org/IAssetService/RoomAssetSearchByRoomCode" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RoomAsset_RoomSave">
+      <soap:operation soapAction="http://tempuri.org/IAssetService/RoomAsset_RoomSave" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="RoomAssetSelectAll">
+      <soap:operation soapAction="http://tempuri.org/IAssetService/RoomAssetSelectAll" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="AssetService">
+    <wsdl:port name="BasicHttpEndPoint" binding="tns:BasicHttpEndPoint">
+      <soap:address location="http://nhoppasit-pc2/asset/webapi.svc/AssetService" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

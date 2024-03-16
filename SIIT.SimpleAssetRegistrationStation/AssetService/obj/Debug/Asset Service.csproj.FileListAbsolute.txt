@@ -1,0 +1,36 @@
+D:\git repo\simple-fixed-asset\src\Simple Asset CSharp\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Debug\Asset Service.csprojResolveAssemblyReference.cache
+D:\git repo\simple-fixed-asset\src\Simple Asset CSharp\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Debug\Asset Service.csproj.CoreCompileInputs.cache
+D:\git repo\simple-fixed-asset\src\Simple Asset CSharp\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Debug\Asset.dll.config
+D:\git repo\simple-fixed-asset\src\Simple Asset CSharp\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Debug\Asset.dll
+D:\git repo\simple-fixed-asset\src\Simple Asset CSharp\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Debug\Asset.pdb
+D:\git repo\simple-fixed-asset\src\Simple Asset CSharp\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Debug\DB Management.dll
+D:\git repo\simple-fixed-asset\src\Simple Asset CSharp\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Debug\DB Security.dll
+D:\git repo\simple-fixed-asset\src\Simple Asset CSharp\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Debug\DB Management.pdb
+D:\git repo\simple-fixed-asset\src\Simple Asset CSharp\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Debug\DB Security.pdb
+D:\git repo\simple-fixed-asset\src\Simple Asset CSharp\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Debug\Asset Service.csproj.CopyComplete
+D:\git repo\simple-fixed-asset\src\Simple Asset CSharp\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Debug\Asset.dll
+D:\git repo\simple-fixed-asset\src\Simple Asset CSharp\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Debug\Asset.pdb
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Debug\Asset.dll.config
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Debug\Asset.dll
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Debug\Asset.pdb
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Debug\DB Management.dll
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Debug\DB Security.dll
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Debug\DB Management.pdb
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Debug\DB Security.pdb
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Debug\Asset Service.csprojResolveAssemblyReference.cache
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Debug\Asset Service.csproj.CoreCompileInputs.cache
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Debug\Asset Service.csproj.CopyComplete
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Debug\Asset.dll
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Debug\Asset.pdb
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Debug\Asset.dll.config
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Debug\Asset.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Debug\Asset.pdb
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Debug\DB Management.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Debug\DB Security.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Debug\DB Management.pdb
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Debug\DB Security.pdb
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Debug\Asset Service.csprojResolveAssemblyReference.cache
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Debug\Asset Service.csproj.CoreCompileInputs.cache
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Debug\Asset Service.csproj.CopyComplete
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Debug\Asset.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Debug\Asset.pdb

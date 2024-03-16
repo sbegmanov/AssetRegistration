@@ -1,0 +1,36 @@
+E:\Work 2018\PHYSICS\TPM\Repo_tpm\ws_scr\V1\TPM2018\DB Management\bin\Debug\DB Management.dll
+E:\Work 2018\PHYSICS\TPM\Repo_tpm\ws_scr\V1\TPM2018\DB Management\bin\Debug\DB Management.pdb
+E:\Work 2018\PHYSICS\TPM\Repo_tpm\ws_scr\V1\TPM2018\DB Management\bin\Debug\DB Security.dll
+E:\Work 2018\PHYSICS\TPM\Repo_tpm\ws_scr\V1\TPM2018\DB Management\bin\Debug\DB Security.pdb
+E:\Work 2018\PHYSICS\TPM\Repo_tpm\ws_scr\V1\TPM2018\DB Management\obj\Debug\DB Management.csprojResolveAssemblyReference.cache
+E:\Work 2018\PHYSICS\TPM\Repo_tpm\ws_scr\V1\TPM2018\DB Management\obj\Debug\DB Management.csproj.CoreCompileInputs.cache
+E:\Work 2018\PHYSICS\TPM\Repo_tpm\ws_scr\V1\TPM2018\DB Management\obj\Debug\DB Management.csproj.CopyComplete
+E:\Work 2018\PHYSICS\TPM\Repo_tpm\ws_scr\V1\TPM2018\DB Management\obj\Debug\DB Management.dll
+E:\Work 2018\PHYSICS\TPM\Repo_tpm\ws_scr\V1\TPM2018\DB Management\obj\Debug\DB Management.pdb
+D:\git repo\simple-fixed-asset\src\Simple Asset CSharp\SIIT.SimpleAssetRegistrationStation\DB Management\bin\Debug\DB Management.dll
+D:\git repo\simple-fixed-asset\src\Simple Asset CSharp\SIIT.SimpleAssetRegistrationStation\DB Management\bin\Debug\DB Management.pdb
+D:\git repo\simple-fixed-asset\src\Simple Asset CSharp\SIIT.SimpleAssetRegistrationStation\DB Management\bin\Debug\DB Security.dll
+D:\git repo\simple-fixed-asset\src\Simple Asset CSharp\SIIT.SimpleAssetRegistrationStation\DB Management\bin\Debug\DB Security.pdb
+D:\git repo\simple-fixed-asset\src\Simple Asset CSharp\SIIT.SimpleAssetRegistrationStation\DB Management\obj\Debug\DB Management.csprojResolveAssemblyReference.cache
+D:\git repo\simple-fixed-asset\src\Simple Asset CSharp\SIIT.SimpleAssetRegistrationStation\DB Management\obj\Debug\DB Management.csproj.CoreCompileInputs.cache
+D:\git repo\simple-fixed-asset\src\Simple Asset CSharp\SIIT.SimpleAssetRegistrationStation\DB Management\obj\Debug\DB Management.csproj.CopyComplete
+D:\git repo\simple-fixed-asset\src\Simple Asset CSharp\SIIT.SimpleAssetRegistrationStation\DB Management\obj\Debug\DB Management.dll
+D:\git repo\simple-fixed-asset\src\Simple Asset CSharp\SIIT.SimpleAssetRegistrationStation\DB Management\obj\Debug\DB Management.pdb
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\DB Management\bin\Debug\DB Management.dll
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\DB Management\bin\Debug\DB Management.pdb
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\DB Management\bin\Debug\DB Security.dll
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\DB Management\bin\Debug\DB Security.pdb
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\DB Management\obj\Debug\DB Management.csprojResolveAssemblyReference.cache
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\DB Management\obj\Debug\DB Management.csproj.CoreCompileInputs.cache
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\DB Management\obj\Debug\DB Management.csproj.CopyComplete
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\DB Management\obj\Debug\DB Management.dll
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\DB Management\obj\Debug\DB Management.pdb
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\DB Management\bin\Debug\DB Management.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\DB Management\bin\Debug\DB Management.pdb
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\DB Management\bin\Debug\DB Security.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\DB Management\bin\Debug\DB Security.pdb
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\DB Management\obj\Debug\DB Management.csprojResolveAssemblyReference.cache
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\DB Management\obj\Debug\DB Management.csproj.CoreCompileInputs.cache
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\DB Management\obj\Debug\DB Management.csproj.CopyComplete
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\DB Management\obj\Debug\DB Management.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\DB Management\obj\Debug\DB Management.pdb

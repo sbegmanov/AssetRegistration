@@ -1,0 +1,110 @@
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Energetic Simple Asset.exe.config
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Energetic Simple Asset.exe
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Energetic Simple Asset.pdb
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Newtonsoft.Json.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\obj\Debug\Energetic_Simple_Asset.Properties.Resources.resources
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\obj\Debug\Energetic Simple Asset.csproj.GenerateResource.cache
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\obj\Debug\Energetic Simple Asset.csproj.CoreCompileInputs.cache
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\obj\Debug\Energetic Simple Asset.csproj.CopyComplete
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\obj\Debug\Energetic Simple Asset.exe
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\obj\Debug\Energetic Simple Asset.pdb
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\obj\Debug\Energetic_Simple_Asset.Page.FrmMain.resources
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\EnvDTE.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\stdole.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\EnvDTE80.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\VSLangProj.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\VSLangProj80.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.MSXML.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.Build.Framework.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\VSLangProj2.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\obj\Debug\Energetic Simple Asset.exe.config
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\obj\Debug\Energetic_Simple_Asset.Page.AboutBoxMain.resources
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\obj\Debug\Energetic_Simple_Asset.Page.FrmAssetRegistration.resources
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Impinj.OctaneSdk.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\LLRP.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\LLRP.Impinj.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Impinj.OctaneSdk.xml
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\obj\Debug\Energetic_Simple_Asset.Page.FrmReaderSetting.resources
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\obj\Debug\Energetic_Simple_Asset.Page.FrmRoomManagement.resources
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\obj\Debug\Energetic_Simple_Asset.Page.FrmEditRowAndSaveAsset.resources
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\obj\Debug\Energetic_Simple_Asset.Page.FrmEditRowAndSaveRoom.resources
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\obj\Debug\Energetic_Simple_Asset.Page.FrmAssetValidation.resources
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\obj\Debug\Energetic Simple Asset.csprojResolveAssemblyReference.cache
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Energetic Simple Asset.exe.manifest
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Debug\Energetic Simple Asset.application
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\obj\Debug\Energetic Simple Asset.exe.manifest
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\obj\Debug\Energetic Simple Asset.application

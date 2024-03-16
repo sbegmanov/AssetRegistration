@@ -1,0 +1,14 @@
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Release\Energetic Simple Asset.exe.config
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Release\Energetic Simple Asset.exe
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Release\Energetic Simple Asset.pdb
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Release\Newtonsoft.Json.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Release\Newtonsoft.Json.pdb
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\bin\Release\Newtonsoft.Json.xml
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\obj\Release\Energetic Simple Asset.csprojResolveAssemblyReference.cache
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\obj\Release\Energetic_Simple_Asset.FrmMain.resources
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\obj\Release\Energetic_Simple_Asset.Properties.Resources.resources
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\obj\Release\Energetic Simple Asset.csproj.GenerateResource.cache
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\obj\Release\Energetic Simple Asset.csproj.CoreCompileInputs.cache
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\obj\Release\Energetic Simple Asset.csproj.CopyComplete
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\obj\Release\Energetic Simple Asset.exe
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\Energetic Simple Asset\obj\Release\Energetic Simple Asset.pdb

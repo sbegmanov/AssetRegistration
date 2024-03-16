@@ -1,0 +1,36 @@
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Release\Asset.dll.config
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Release\Asset.dll
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Release\Asset.pdb
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Release\DB Management.dll
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Release\DB Security.dll
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Release\DB Management.pdb
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Release\DB Security.pdb
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Release\Asset Service.csprojResolveAssemblyReference.cache
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Release\Asset Service.csproj.CoreCompileInputs.cache
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Release\Asset Service.csproj.CopyComplete
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Release\Asset.dll
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Release\Asset.pdb
+E:\Bitbuck_repo\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Release\Asset.dll.config
+E:\Bitbuck_repo\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Release\Asset.dll
+E:\Bitbuck_repo\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Release\Asset.pdb
+E:\Bitbuck_repo\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Release\DB Management.dll
+E:\Bitbuck_repo\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Release\DB Security.dll
+E:\Bitbuck_repo\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Release\DB Management.pdb
+E:\Bitbuck_repo\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Release\DB Security.pdb
+E:\Bitbuck_repo\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Release\Asset Service.csprojResolveAssemblyReference.cache
+E:\Bitbuck_repo\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Release\Asset Service.csproj.CoreCompileInputs.cache
+E:\Bitbuck_repo\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Release\Asset Service.csproj.CopyComplete
+E:\Bitbuck_repo\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Release\Asset.dll
+E:\Bitbuck_repo\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Release\Asset.pdb
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Release\Asset.dll.config
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Release\Asset.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Release\Asset.pdb
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Release\DB Management.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Release\DB Security.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Release\DB Management.pdb
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\bin\Release\DB Security.pdb
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Release\Asset Service.csprojResolveAssemblyReference.cache
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Release\Asset Service.csproj.CoreCompileInputs.cache
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Release\Asset Service.csproj.CopyComplete
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Release\Asset.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\AssetService\obj\Release\Asset.pdb

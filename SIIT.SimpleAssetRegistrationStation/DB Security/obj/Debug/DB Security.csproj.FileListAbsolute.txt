@@ -1,0 +1,21 @@
+E:\Work 2018\PHYSICS\TPM\Repo_tpm\ws_scr\V1\TPM2018\DB Security\bin\Debug\DB Security.dll
+E:\Work 2018\PHYSICS\TPM\Repo_tpm\ws_scr\V1\TPM2018\DB Security\bin\Debug\DB Security.pdb
+E:\Work 2018\PHYSICS\TPM\Repo_tpm\ws_scr\V1\TPM2018\DB Security\obj\Debug\DB Security.csproj.CoreCompileInputs.cache
+E:\Work 2018\PHYSICS\TPM\Repo_tpm\ws_scr\V1\TPM2018\DB Security\obj\Debug\DB Security.dll
+E:\Work 2018\PHYSICS\TPM\Repo_tpm\ws_scr\V1\TPM2018\DB Security\obj\Debug\DB Security.pdb
+E:\Work 2018\PHYSICS\TPM\Repo_tpm\ws_scr\V1\TPM2018\DB Security\obj\Debug\DB Security.csprojResolveAssemblyReference.cache
+D:\git repo\simple-fixed-asset\src\Simple Asset CSharp\SIIT.SimpleAssetRegistrationStation\DB Security\bin\Debug\DB Security.dll
+D:\git repo\simple-fixed-asset\src\Simple Asset CSharp\SIIT.SimpleAssetRegistrationStation\DB Security\bin\Debug\DB Security.pdb
+D:\git repo\simple-fixed-asset\src\Simple Asset CSharp\SIIT.SimpleAssetRegistrationStation\DB Security\obj\Debug\DB Security.csproj.CoreCompileInputs.cache
+D:\git repo\simple-fixed-asset\src\Simple Asset CSharp\SIIT.SimpleAssetRegistrationStation\DB Security\obj\Debug\DB Security.dll
+D:\git repo\simple-fixed-asset\src\Simple Asset CSharp\SIIT.SimpleAssetRegistrationStation\DB Security\obj\Debug\DB Security.pdb
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\DB Security\bin\Debug\DB Security.dll
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\DB Security\bin\Debug\DB Security.pdb
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\DB Security\obj\Debug\DB Security.csproj.CoreCompileInputs.cache
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\DB Security\obj\Debug\DB Security.dll
+D:\SIIT.SimpleAssetRegistrationStation 20181127115220\SIIT.SimpleAssetRegistrationStation\DB Security\obj\Debug\DB Security.pdb
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\DB Security\bin\Debug\DB Security.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\DB Security\bin\Debug\DB Security.pdb
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\DB Security\obj\Debug\DB Security.csproj.CoreCompileInputs.cache
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\DB Security\obj\Debug\DB Security.dll
+D:\git repo\simple-fixed-asset\SIIT\Src\Energetic Simple Asset\SIIT.SimpleAssetRegistrationStation\DB Security\obj\Debug\DB Security.pdb
